@@ -1,0 +1,1 @@
+print("yurii nezarah")
